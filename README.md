@@ -1,1 +1,3 @@
-# msc_thesis
+Micro-CT denoising
+
+
